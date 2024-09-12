@@ -1,0 +1,12 @@
+fastapi==0.114.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+numpy==2.1.1
+python-dotenv==1.0.1
+pydantic-settings==2.4.0
+aiofiles==24.1.0
+langchain==0.2.16
+PyMuPDF==1.24.10
+openai==1.44.1
+cohere==5.9.1
+qdrant-client==1.11.1
