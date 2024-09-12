@@ -1,8 +1,8 @@
-# Chatcheat APP ⚡🚀
+# CheatChat APP ⚡🚀
 
 ##  🔗 Introduction
 ------------
-The Chatcheat App is a `chat-Bot` concerned to answer user Question and this implementation serve our plan.. 
+The CheatChat App is a `chat-Bot` concerned to answer user Question and this implementation serve our plan.. 
 
 ## 🔗 How It Works
 ------------
