@@ -7,7 +7,7 @@ The Chatcheat App is a `chat-Bot` concerned to answer user Question and this imp
 ## 🔗 How It Works
 ------------
 
-![RAG Diagram](.\src\assets\llm.png)
+![RAG Diagram](src/assets/llm.png)
 
 The application follows these steps to provide responses to your questions:
 
